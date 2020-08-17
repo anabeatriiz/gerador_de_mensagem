@@ -9,7 +9,7 @@ Front-End Start Latam course project to generate messages.👩‍💻
   - JavaScript
 
 
-### Developer by:
+### Develop by:
    > Ana Beatriz 
  - Linkedin: (https://www.linkedin.com/in/ana-beatriz-4b8604179/) 😄
  - Link to the project: (https://anabeatriiz.github.io/gerador_de_mensagem/) ✔️
